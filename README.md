@@ -64,7 +64,7 @@ Este archivo compara tus respuestas con las correctas y muestra un reporte indic
 1. Compila primero el código fuente:
 
    ```bash
-   javac -d out src/main/ejercico1/AlgoritmosEjemplo.java src/main/ejercico1/RespuestasComplejidad.java
+   javac -d out src/main/ejercicio1/AlgoritmosEjemplo.java src/main/ejercicio1/RespuestasComplejidad.java
    ```
 2. Luego compila el test (indicando dónde buscar las clases compiladas):
 
